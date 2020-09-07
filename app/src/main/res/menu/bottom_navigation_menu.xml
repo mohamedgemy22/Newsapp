@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/breakingNewsFragment"
+        android:icon="@drawable/breakink_news"
+        android:enabled="true"
+        android:title="breaking News" />
+    <item
+        android:id="@+id/favouritNewsFragment"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:enabled="true"
+        android:title="Favourite News" />
+    <item
+        android:id="@+id/searchFragmentFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Searchig News" />
+
+</menu>
